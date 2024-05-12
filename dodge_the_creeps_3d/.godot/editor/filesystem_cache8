@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1715477748
+icon.png::CompressedTexture2D::8616922038400912617::1715475271::1715475365::1::::<><>::
+Main.gd::GDScript::-1::1715476561::0::1::::<>Node<>::
+Main.tscn::PackedScene::2267544482890077213::1715475369::0::1::::<><>::res://Main.gd<>res://Player.tscn<>res://Mob.tscn<>res://ScoreLabel.gd<>res://ui_theme.tres
+Mob.gd::GDScript::-1::1715476521::0::1::::<>CharacterBody3D<>::
+Mob.tscn::PackedScene::-1::1715475355::0::1::::<><>::res://Mob.gd<>res://art/mob.glb
+MusicPlayer.tscn::PackedScene::-1::1715475355::0::1::::<><>::res://art/House In a Forest Loop.ogg
+Player.gd::GDScript::-1::1715476482::0::1::::<>CharacterBody3D<>::
+Player.tscn::PackedScene::-1::1715475355::0::1::::<><>::res://Player.gd<>res://art/player.glb
+ScoreLabel.gd::GDScript::-1::1715475355::0::1::::<>Label<>::
+ui_theme.tres::Theme::6293451939468864621::1715475369::0::1::::<><>::uid://dthuen47p6p8o::::res://fonts/Montserrat-Medium.ttf
+::res://addons/::1715476385
+::res://addons/godot-git-plugin/::1715476385
+git_plugin.gdextension::GDExtension::-1::1715476385::0::1::::<><>::
+plugin.cfg::TextFile::-1::1715476385::0::1::::<><>::
+THIRDPARTY.md::TextFile::-1::1715476385::0::1::::<><>::
+::res://addons/godot-git-plugin/linux/::1715476385
+::res://addons/godot-git-plugin/macos/::1715476385
+::res://addons/godot-git-plugin/win64/::1715476385
+::res://art/::1715475365
+body.tres::StandardMaterial3D::-1::1715475355::0::1::::<><>::
+eye.tres::StandardMaterial3D::-1::1715475355::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::9010631358444263041::1715475271::1715475365::1::::<><>::
+mob.glb::PackedScene::6327696424171703394::1715475271::1715475365::1::::<><>::
+mob_body.tres::StandardMaterial3D::-1::1715475355::0::1::::<><>::
+mob_eye.tres::StandardMaterial3D::-1::1715475355::0::1::::<><>::
+player.glb::PackedScene::4645369373862328502::1715475271::1715475365::1::::<><>::
+pupil.tres::StandardMaterial3D::-1::1715475355::0::1::::<><>::
+::res://fonts/::1715475365
+LICENSE.txt::TextFile::-1::1715475271::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::8508522936589381204::1715475271::1715475365::1::::<><>::
